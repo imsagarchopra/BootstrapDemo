@@ -20,3 +20,8 @@
     font-size: large;
     min-height: 310px;
 }
+
+.thumbnailImage {
+    height: 200px;
+    width: 100%;
+}
